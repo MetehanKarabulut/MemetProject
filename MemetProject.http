@@ -1,0 +1,6 @@
+@MemetProject_HostAddress = http://localhost:5008
+
+GET {{MemetProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
